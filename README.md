@@ -23,29 +23,29 @@ District summary had no considerable variances:
 - % Passing Reading decreased by 0.1% vs original
 - % Overall Passing dropped by 0.3% vs original
 
- ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+ ![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/District_Summary_Comparison.PNG "District Summary Comparison")
 
 2. How is the school summary affected?
 The school summary is only affected in Thomas High School, since no other scores were altered. 
 Just for practice I merged both school summaries and compared each score column, giving me the desired result of only seeing variance in Thomas High School.
-![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/School_Summary_Comparison.PNG "School Summary Comparison")
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Based on % Overall Passing Thoms Highs School dropped from second place to 8th place
-![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/Ranking_Schools_Comparison.PNG "Ranking School Comparison")
 
 4. How does replacing the ninth-grade scores affect the following
     - Math and reading scores by grade
         - It does not affect the other school grades since they were not altered. The only school that is impacted only for 9th grade is THS
     - Scores by school spending
         - The spending summary was not affected by the replacement of 9th grade scores
-        ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+        ![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/Scores_by_school_spending_comparison.PNG "Scores by School Spending Comparison")
     - Scores by school size
         - Scores by school size was not affected by the replacement of 9th grade scores
-        ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+        ![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/Scores_by_school_size_comparison.PNG "Scores by School Size Comparison")
     - Scores by school type
         - Scores by school size was not affected by the replacement of 9th grade scores
-        ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG "Terminal Election Results") ### MODIFY ####
+        ![Alt text](https://github.com/Jimena-QM/School_District_Analysis/blob/main/Resources/Scores_by_school_type_comparison.PNG "Scores by School Type")
 
 
 
